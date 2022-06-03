@@ -1,11 +1,11 @@
 {
-    "name": "HX",
+    "name": "ggv1",
     "description": "Powered By Misaka-blog",
     "keywords": [],
     "env": {
         "TYPE": {
             "description": "协议，小写的vmess或vless",
-            "value": "vmess"
+            "value": "vless"
         },
         "UUID": {
             "description": "UUID，可在 https://www.uuidgenerator.net/ 生成",
