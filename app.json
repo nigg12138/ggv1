@@ -5,7 +5,7 @@
     "env": {
         "TYPE": {
             "description": "协议，小写的vmess或vless",
-            "value": "vless"
+            "value": "vmess"
         },
         "UUID": {
             "description": "UUID，可在 https://www.uuidgenerator.net/ 生成",
